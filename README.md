@@ -3,6 +3,8 @@ A simple stegonagraphy tool to hide an image within another of the same dimensio
 
 Sample files of the image used as the cover as well as the image meant to be kept secret are provided.
 
+
+
 The user may change which files are used, assuming they are the same dimensions.
 
 The amount of trail bits used affects the embedded image quality as well as the extracted image quality.
